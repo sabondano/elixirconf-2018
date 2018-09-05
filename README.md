@@ -3,9 +3,10 @@
 A collection of links that cover what happened during ElixirConf 2018. Please
 feel free to submit a PR!
 
-Location: Bellevue, WA
-Dates: September 4-7
-Conference format: 2 days of courses and 2 days of talks
+- Location: Bellevue, WA
+- Dates: September 4-7
+- Conference format: 2 days of courses and 2 days of talks
+- Keynotes by: Jose Valim, Justin Schneck, and Chris McCord
 
 ## Courses
 
@@ -13,7 +14,9 @@ Conference format: 2 days of courses and 2 days of talks
 by [Bruce Williams](https://github.com/bruce) and [Ben
 Wilson](https://github.com/benwilson512)
 
-- Slides: [http://slides.com/wbruce/production-ready-graphql-1](http://slides.com/wbruce/production-ready-graphql-1)
+- Slides:
+    + [Day 1](http://slides.com/wbruce/production-ready-graphql-1)
+    + [Day 2](http://slides.com/wbruce/production-ready-graphql-2)
 - Example project: [https://github.com/bruce/pastex](https://github.com/bruce/pastex)
 - Links:
     + [GraphQL](https://facebook.github.io/graphql/)
@@ -30,6 +33,8 @@ Wilson](https://github.com/benwilson512)
 ## Talks
 
 ### Keynote: Jose Valim
+### Keynote: Justin Schneck
+### Keynote:  Chris McCord
 ### Elixir at a Walking Pace
 ### UX Design Practices for Real Time Apps
 ### Growing Applications and Taming Complexity
