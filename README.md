@@ -53,14 +53,15 @@ Wilson](https://github.com/benwilson512)
     + [Day 2](http://slides.com/wbruce/production-ready-graphql-2)
 - Example project:
     + GitHub link: [https://github.com/bruce/pastex](https://github.com/bruce/pastex)
-    + ^ the branches in the repo are ordered and show the different steps while
-      building the example project during the course
+    + ^ the branches in the repo are ordered and show the different steps taken when building the example project during the course
 - Links:
+    + 'Craft GraphQL APIs in Elixir with Absinthe' Book: [https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
     + [GraphQL](https://facebook.github.io/graphql/)
     + [Absinthe](http://absinthe-graphql.org/)
     + Tutorial and guides: [https://hexdocs.pm/absinthe/overview.html](https://hexdocs.pm/absinthe/overview.html)
     + Relay framework: [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
     + Absinthe.Relay: [https://github.com/absinthe-graphql/absinthe_relay](https://github.com/absinthe-graphql/absinthe_relay)
+    + Dataloader: [https://github.com/absinthe-graphql/dataloader](https://github.com/absinthe-graphql/dataloader)
 - Absinthe's Elixir Slack Channel: #absinthe-graphql
 - Follow Absinthe on Twitter: [https://twitter.com/absinthegraphql](https://twitter.com/absinthegraphql)
 
