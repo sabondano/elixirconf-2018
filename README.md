@@ -6,7 +6,7 @@ feel free to submit a PR!
 - Location: Bellevue, WA
 - Dates: September 4-7
 - Conference format: 2 days of courses and 2 days of talks
-- Keynotes by: Jose Valim, Justin Schneck, and Chris McCord
+- Keynotes by: [Jose Valim](https://github.com/josevalim), [Justin Schneck](https://github.com/mobileoverlord), and [Chris McCord](https://github.com/chrismccord)
 
 ## Courses
 
@@ -21,6 +21,9 @@ Wilson](https://github.com/benwilson512)
 - Links:
     + [GraphQL](https://facebook.github.io/graphql/)
     + [Absinthe](http://absinthe-graphql.org/)
+    + Tutorial and guides: [https://hexdocs.pm/absinthe/overview.html](https://hexdocs.pm/absinthe/overview.html)
+- Absinthe's Elixir Slack Channel: #absinthe-graphql
+- Follow Absinthe on Twitter: [https://twitter.com/absinthegraphql](https://twitter.com/absinthegraphql)
 
 ### Learning Elixir
 ### Ecto: From the Ground Up
