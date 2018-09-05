@@ -68,6 +68,10 @@ Wilson](https://github.com/benwilson512)
 ### Ecto: From the Ground Up
 ### Phoenix Basics
 ### Build Next Generation, Real-Time Applications with Phoenix and OTP
+by [Chris McCord](https://github.com/chrismccord) and [Chris Freeze](https://github.com/cjfreeze)
+
+- Example Project: [https://github.com/chrismccord/sketchpad](https://github.com/chrismccord/sketchpad)
+
 ### Introduction to Concurrent Programming with Elixir
 ### Build smart touchscreen kiosks with Nerves and Phoenix
 ### Less-Pain Embedded Systems with Elixir and Nerves
