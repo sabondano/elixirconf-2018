@@ -8,7 +8,41 @@ feel free to submit a PR!
 - Conference format: 2 days of courses and 2 days of talks
 - Keynotes by: [Jose Valim](https://github.com/josevalim), [Justin Schneck](https://github.com/mobileoverlord), and [Chris McCord](https://github.com/chrismccord)
 
-## Courses
+## Community Related Links
+- Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
+- Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
+- Elixir on Twitter: [https://twitter.com/elixirlang](https://twitter.com/elixirlang)
+- Phoenix on Twitter: [https://twitter.com/elixirphoenix](https://twitter.com/elixirphoenix)
+- Elixir website: [https://elixir-lang.org/](https://elixir-lang.org/)
+- Phoenix website: [https://phoenixframework.org/](https://phoenixframework.org/)
+- Nerves website: [https://nerves-project.org/](https://nerves-project.org/)
+
+## Newsletters
+- Elixir Radar: [http://plataformatec.com.br/elixir-radar/weekly-newsletter](http://plataformatec.com.br/elixir-radar/weekly-newsletter)
+- Elixir Weekly: [https://elixirweekly.net/](https://elixirweekly.net/)
+
+## Podcasts
+- Elixir Outlaws: [https://elixiroutlaws.com/](https://elixiroutlaws.com/)
+- Elixir Talk: [https://itunes.apple.com/us/podcast/elixirtalk/id1298287048](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
+- Elixir Mix: [https://devchat.tv/elixir-mix/](https://devchat.tv/elixir-mix/)
+
+## Regional Conferences
+- Empex (New York and LA): [http://empex.co/](http://empex.co/)
+- The Big Elixir (New Orleans): [https://www.thebigelixir.com/](https://www.thebigelixir.com/)
+- Gig City Elixir (Chattanooga): [https://www.gigcityelixir.com/](https://www.gigcityelixir.com/)
+
+## Recommended Books
+- Property-Based Testing with PropEr, Erlang, and Elixir: [https://propertesting.com/index.html](https://propertesting.com/index.html) 
+- Craft GraphQL APIs in Elixir with Absinthe: [https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+- Elixir in Action, Second Edition: [https://www.manning.com/books/elixir-in-action-second-edition](https://www.manning.com/books/elixir-in-action-second-edition)
+
+## Job Boards
+- Elixir Radar: [http://plataformatec.com.br/elixir-radar/jobs](http://plataformatec.com.br/elixir-radar/jobs)
+- Elixir Jobs: [https://elixirjobs.net/](https://elixirjobs.net/)
+- Elixir Career: [https://elixir.career/](https://elixir.career/)
+- #jobs channel on Elixir's Slack
+
+## ElixirConf Courses
 
 ### Building Production-ready GraphQL APIs
 by [Bruce Williams](https://github.com/bruce) and [Ben
@@ -33,7 +67,7 @@ Wilson](https://github.com/benwilson512)
 ### Build smart touchscreen kiosks with Nerves and Phoenix
 ### Less-Pain Embedded Systems with Elixir and Nerves
 
-## Talks
+## ElixirConf Talks
 
 ### Keynote: Jose Valim
 ### Keynote: Justin Schneck
