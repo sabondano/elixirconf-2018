@@ -125,6 +125,24 @@ by [Catherine Zoller](https://github.com/cathyzoller)
 ### Simple is Beautiful: Building an SLA Monitoring Tool Using Elixir/OTP at PagerDuty
 ### We're Just Getting Started - Our Three Years with Elixir
 ### Take Your Time
+by [Ben Marx](https://github.com/bgmarx)
+
+- [Bleacher Report](https://github.com/br)
+- [Adopting Elixir (Book)](https://pragprog.com/book/tvmelixir/adopting-elixir)
+- [Erlang Scheduler](https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html)
+- [Preemption Computing](https://en.wikipedia.org/wiki/Preemption_%28computing%29)
+- [Cooperative Multitasking](https://en.wikipedia.org/wiki/Cooperative_multitasking)
+- [NIFs](http://andrealeopardi.com/posts/using-c-from-elixir-with-nifs/)
+- [Dirty Schedulers](https://en.wikipedia.org/wiki/Preemption_%28computing%2://news.ycombinator.com/item?id=14605726)
+- [system-monitor/2](http://erlang.org/doc/man/erlang.html#system_monitor-2)
+- [Rust](https://www.rust-lang.org/en-US/)
+- [Programming Rust Book](http://shop.oreilly.com/product/0636920040385.do)
+- [Why Rust? Safe C](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+- [Avoiding Logic Errors](https://mgattozzi.com/avoiding-logic-errors)
+- [Rustler](https://github.com/hansihe/rustler)
+- [Taking Elixir to the Metal](https://www.youtube.com/watch?v=HbPwoFX2XJg)
+- [Safe Elixir and Erlang NIFs in Rust](http://hansihe.com/2017/02/05/rustler-safe-erlang-elixir-nifs-in-rust.html)
+
 ### Interfacing with Machine-Learned Models
 
 ## Community Related Links
