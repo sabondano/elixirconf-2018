@@ -113,6 +113,18 @@ by [Lance Halvorsen](https://twitter.com/lance_halvorsen)
 - [Partisan](https://github.com/lasp-lang/partisan)
 
 ### UX Design Practices for Real Time Apps
+by [Bailey Miller](https://github.com/baileycmiller)
+
+- [POA's BlockScout](https://github.com/poanetwork/blockscout)
+- [UX Design](https://en.wikipedia.org/wiki/User_experience_design)
+- [Last seen pagination](https://stackoverflow.com/questions/9602220/what-pagination-schemes-can-handle-rapidly-changing-content-lists)
+- [Moment.js](https://momentjs.com/)
+- [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- [easings.net](https://easings.net/)
+- [CSS animatons](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [Bus detective](https://teamgaslight.com/work/bus-detective)
+- [OceanConnect Marine](https://www.oceanconnectmarine.com/OCM/Index.aspx)
+
 ### Growing Applications and Taming Complexity
 ### Ticket to Fly: Porting an Application from Rails to Phoenix
 ### Making a GraphQL Server with Absinthe & Dataloader
