@@ -162,3 +162,7 @@ by [Catherine Zoller](https://github.com/cathyzoller)
 - #jobs channel on Elixir's Slack
 
 ## Heard these companies are hiring
+
+- [POA](https://poa.network/)
+- [Gaslight](https://teamgaslight.com/)
+
