@@ -127,6 +127,14 @@ by [Bailey Miller](https://github.com/baileycmiller)
 
 ### Growing Applications and Taming Complexity
 ### Ticket to Fly: Porting an Application from Rails to Phoenix
+by [Catherine Zoller](https://github.com/cathyzoller)
+
+- [Arc: Flexible file upload and attachment library for Elixir](https://github.com/stavro/arc)
+- [Arc Ecto](https://github.com/stavro/arc_ecto)
+- [D3.js](https://d3js.org/)
+- [Fabric.js](http://fabricjs.com/)
+- [Ecto.Multi](https://hexdocs.pm/ecto/Ecto.Multi.html)
+
 ### Making a GraphQL Server with Absinthe & Dataloader
 ### Building Video Chat with Elixir & Phoenix
 ### Exchange of Crypto Coins
