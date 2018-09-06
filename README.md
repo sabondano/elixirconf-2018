@@ -32,7 +32,7 @@ feel free to submit a PR!
 - Gig City Elixir (Chattanooga): [https://www.gigcityelixir.com/](https://www.gigcityelixir.com/)
 
 ## Recommended Books
-- Property-Based Testing with PropEr, Erlang, and Elixir: [https://propertesting.com/index.html](https://propertesting.com/index.html) 
+- Property-Based Testing with PropEr, Erlang, and Elixir: [https://propertesting.com/index.html](https://propertesting.com/index.html)
 - Craft GraphQL APIs in Elixir with Absinthe: [https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 - Elixir in Action, Second Edition: [https://www.manning.com/books/elixir-in-action-second-edition](https://www.manning.com/books/elixir-in-action-second-edition)
 
@@ -84,6 +84,17 @@ by [Rob Keefer](https://github.com/rbkeefer) and [Paul Spencer](https://github.c
 ## ElixirConf Talks
 
 ### Keynote: Jose Valim
+title: "The next five years"
+
+- [Adopting EEP 48](https://github.com/elixir-lang/elixir/issues/7198)
+- [Membrane Framework](https://www.membraneframework.org/)
+- [Elixir Development](https://elixir-lang.org/development.html)
+- [Formatter](https://hexdocs.pm/mix/master/Mix.Tasks.Format.html)
+- [Property-Based Testing Book](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
+- [XHTTP](https://github.com/ericmj/xhttp)
+- [Distillery 2.0](https://dockyard.com/blog/2018/08/23/announcing-distillery-2-0)
+- [Gradualizer](https://github.com/josefs/Gradualizer)
+
 ### Keynote: Justin Schneck
 ### Keynote:  Chris McCord
 ### Elixir at a Walking Pace
