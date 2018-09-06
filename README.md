@@ -84,7 +84,7 @@ by [Rob Keefer](https://github.com/rbkeefer) and [Paul Spencer](https://github.c
 ## ElixirConf Talks
 
 ### Keynote: Jose Valim
-title: "The next five years"
+"The next five years"
 
 - [Adopting EEP 48](https://github.com/elixir-lang/elixir/issues/7198)
 - [Membrane Framework](https://www.membraneframework.org/)
@@ -98,6 +98,20 @@ title: "The next five years"
 ### Keynote: Justin Schneck
 ### Keynote:  Chris McCord
 ### Elixir at a Walking Pace
+by [Lance Halvorsen](https://twitter.com/lance_halvorsen)
+
+- [Le Tote](https://github.com/LeToteTeam)
+- [ETS](https://elixir-lang.org/getting-started/mix-otp/ets.html)
+- [GenServer](https://hexdocs.pm/elixir/GenServer.html)
+- [handle_continue](https://hexdocs.pm/elixir/master/GenServer.html#c:handle_continue/2)
+- [Registry](https://hexdocs.pm/elixir/master/Registry.html)
+- [GenServer.whereis/1](https://hexdocs.pm/elixir/master/GenServer.html#whereis/1)
+- [DynamicSupervisor](https://hexdocs.pm/elixir/DynamicSupervisor.html)
+- [hibernate](https://hexdocs.pm/elixir/Process.html#hibernate/3)
+- [Swarm](https://github.com/bitwalker/swarm)
+- [Hybrid Logical Clocks for Elixir](https://github.com/toniqsystems/hlclock)
+- [Partisan](https://github.com/lasp-lang/partisan)
+
 ### UX Design Practices for Real Time Apps
 ### Growing Applications and Taming Complexity
 ### Ticket to Fly: Porting an Application from Rails to Phoenix
