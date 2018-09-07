@@ -163,6 +163,14 @@ by [James Smith](https://github.com/st23am)
 - [EventBus](https://github.com/otobus/event_bus)
 - [The Many Meanings of Event-Driven Architecture • Martin Fowler](https://youtu.be/STKCRSUsyP0)
 
+### Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures
+by [Jeff Schomay](https://github.com/jschomay)
+
+- [Behavior tree](https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control))
+- [Zipper (data structure)](https://en.wikipedia.org/wiki/Zipper_(data_structure))
+- [Elixir library for building AI's from composable behavior trees](https://github.com/jschomay/elixir-behavior-tree)
+- [Elixir AI for the "Battleship" game to demonstrate an elixir behavior tree library](https://github.com/jschomay/elixir-battleship-guesser)
+
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
 - Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
