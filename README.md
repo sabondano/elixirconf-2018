@@ -182,6 +182,14 @@ by [Eric Oestrich](https://github.com/oestrich)
 - [Raft](https://raft.github.io/)
 - [Simple leader election for Elixir applications](https://github.com/oestrich/squabble)
 
+### Introducing Scenic - A Functional UI Framework
+by [Boyd Multerer](https://github.com/boydm)
+
+- [Scenic Framework](https://github.com/boydm/scenic)
+- [ScenicNew](https://github.com/boydm/scenic_new)
+- [Scenic Clock](https://github.com/boydm/scenic_clock)
+- [Kry10](http://kry10.com/)
+
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
 - Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
