@@ -75,6 +75,11 @@ by [Rob Keefer](https://github.com/rbkeefer) and [Paul Spencer](https://github.c
 - [Gradualizer](https://github.com/josefs/Gradualizer)
 
 ### Keynote: Justin Schneck
+
+- [Nerves Project](https://nerves-project.org/)
+- [NervesHub](https://www.nerves-hub.org/)
+- [Nerves' open collective](https://opencollective.com/nerves-project)
+
 ### Keynote:  Chris McCord
 ### Elixir at a Walking Pace
 by [Lance Halvorsen](https://twitter.com/lance_halvorsen)
@@ -147,6 +152,8 @@ by [Ben Marx](https://github.com/bgmarx)
 - [Safe Elixir and Erlang NIFs in Rust](http://hansihe.com/2017/02/05/rustler-safe-erlang-elixir-nifs-in-rust.html)
 
 ### Interfacing with Machine-Learned Models
+### Event Sourcing in Real World Applications: Challenges, Successes and Lessons Learned
+by [James Smith](https://github.com/st23am)
 
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
