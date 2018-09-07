@@ -171,6 +171,17 @@ by [Jeff Schomay](https://github.com/jschomay)
 - [Elixir library for building AI's from composable behavior trees](https://github.com/jschomay/elixir-behavior-tree)
 - [Elixir AI for the "Battleship" game to demonstrate an elixir behavior tree library](https://github.com/jschomay/elixir-battleship-guesser)
 
+### Going Multi-Node
+by [Eric Oestrich](https://github.com/oestrich)
+
+- [ExVenture](https://exventure.org/)
+- [MidMUD](https://midmud.com/)
+- [DiscworldMUD](http://discworld.starturtle.net/lpc/)
+- [MajorMUD](http://mud.wikia.com/wiki/MajorMUD)
+- [libcluster](https://github.com/bitwalker/libcluster)
+- [Raft](https://raft.github.io/)
+- [Simple leader election for Elixir applications](https://github.com/oestrich/squabble)
+
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
 - Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
