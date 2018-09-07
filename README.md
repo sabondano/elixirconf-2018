@@ -8,7 +8,9 @@ feel free to submit a PR!
 - Conference format: 2 days of courses and 2 days of talks
 - Keynotes by: [Jose Valim](https://github.com/josevalim), [Justin Schneck](https://github.com/mobileoverlord), and [Chris McCord](https://github.com/chrismccord)
 
+
 Table of Contents
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6)
 - [ElixirConf Courses](#elixirconf-courses)
 - [ElixirConf Talks](#elixirconf-talks)
 - [Community Related Links](#community-related-links)
@@ -127,6 +129,7 @@ by [Catherine Zoller](https://github.com/cathyzoller)
 ### Take Your Time
 by [Ben Marx](https://github.com/bgmarx)
 
+- [Slides](https://www.slideshare.net/bgmarx/take-your-time-113266815)
 - [Bleacher Report](https://github.com/br)
 - [Adopting Elixir (Book)](https://pragprog.com/book/tvmelixir/adopting-elixir)
 - [Erlang Scheduler](https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html)
