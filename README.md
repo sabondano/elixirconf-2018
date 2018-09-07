@@ -155,6 +155,14 @@ by [Ben Marx](https://github.com/bgmarx)
 ### Event Sourcing in Real World Applications: Challenges, Successes and Lessons Learned
 by [James Smith](https://github.com/st23am)
 
+- [Gaslight](https://nerves-project.org://teamgaslight.com/)
+- [Event Storming](http://eventstorming.com/)
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [Commanded](https://github.com/commanded/commanded)
+- [Maestro](https://github.com/toniqsystems/maestro)
+- [EventBus](https://github.com/otobus/event_bus)
+- [The Many Meanings of Event-Driven Architecture • Martin Fowler](https://youtu.be/STKCRSUsyP0)
+
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
 - Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
