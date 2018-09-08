@@ -202,6 +202,10 @@ by [Boyd Multerer](https://github.com/boydm)
 ### Using Elixir and OTP behaviors to monitor infrastructure
 ### Texas: Virtual DOM Library for Server-Side V-DOM.
 ### Scaling Concurrency Without Getting Burned
+by [Alex Garibay](https://github.com/alexgaribay)
+
+- [Slides](https://t.co/NU9hilEmc7)
+
 ### Down the Memory Lane: a Tale of Memory Leaks
 ### Building a Stateful Web Application with Elixir
 ## Community Related Links
