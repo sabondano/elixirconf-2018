@@ -196,6 +196,18 @@ by [Eric Oestrich](https://github.com/oestrich)
 - [Simple leader election for Elixir applications](https://github.com/oestrich/squabble)
 
 ### Docker and OTP: Friends or Foes?
+by [Daniel Azuma](http://daniel-azuma.com)
+
+- **[Talk notes and links](http://daniel-azuma.com/elixirconf2018)**
+- [Tanx](https://github.com/ElixirSeattle/tanx)
+- [Docker](https://www.docker.com/) / [Kubernetes](https://kubernetes.io/)
+- [LibCluster](https://github.com/bitwalker/libcluster)
+- [Horde](https://github.com/derekkraan/horde)
+- [delta_crdt_ex](https://github.com/derekkraan/delta_crdt_ex)
+- [Swarm](https://github.com/bitwalker/swarm)
+- [Lasp](https://lasp-lang.org)
+- [Gigalixir](https://gigalixir.com/)
+
 ### Empirical Monkeys: A Practitioner’s Take on Breaking Distributed Elixir Systems via Property-Based Testing
 ### Introducing Scenic - A Functional UI Framework
 by [Boyd Multerer](https://github.com/boydm)
