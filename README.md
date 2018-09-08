@@ -163,6 +163,8 @@ by [James Smith](https://github.com/st23am)
 - [EventBus](https://github.com/otobus/event_bus)
 - [The Many Meanings of Event-Driven Architecture • Martin Fowler](https://youtu.be/STKCRSUsyP0)
 
+### Understanding Elixir's (Re)compilation
+### Picking Properties to Test in Property-Based Testing
 ### Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures
 by [Jeff Schomay](https://github.com/jschomay)
 
@@ -171,6 +173,8 @@ by [Jeff Schomay](https://github.com/jschomay)
 - [Elixir library for building AI's from composable behavior trees](https://github.com/jschomay/elixir-behavior-tree)
 - [Elixir AI for the "Battleship" game to demonstrate an elixir behavior tree library](https://github.com/jschomay/elixir-battleship-guesser)
 
+### Breaking Down the User Monolith
+### Sustainable Testing
 ### Going Multi-Node
 by [Eric Oestrich](https://github.com/oestrich)
 
@@ -182,6 +186,8 @@ by [Eric Oestrich](https://github.com/oestrich)
 - [Raft](https://raft.github.io/)
 - [Simple leader election for Elixir applications](https://github.com/oestrich/squabble)
 
+### Docker and OTP: Friends or Foes?
+### Empirical Monkeys: A Practitioner’s Take on Breaking Distributed Elixir Systems via Property-Based Testing
 ### Introducing Scenic - A Functional UI Framework
 by [Boyd Multerer](https://github.com/boydm)
 
@@ -190,6 +196,14 @@ by [Boyd Multerer](https://github.com/boydm)
 - [Scenic Clock](https://github.com/boydm/scenic_clock)
 - [Kry10](http://kry10.com/)
 
+### Using Elixir GenStage to Track Video Watch Progress
+### Handling Success: Development and Deployment Beyond Hello World
+### Erlang/OTP: What's in the Box?
+### Using Elixir and OTP behaviors to monitor infrastructure
+### Texas: Virtual DOM Library for Server-Side V-DOM.
+### Scaling Concurrency Without Getting Burned
+### Down the Memory Lane: a Tale of Memory Leaks
+### Building a Stateful Web Application with Elixir
 ## Community Related Links
 - Elixir on Slack: [https://elixir-slackin.herokuapp.com/](https://elixir-slackin.herokuapp.com/)
 - Elixir Forum: [https://elixirforum.com/](https://elixirforum.com/)
