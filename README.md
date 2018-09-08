@@ -8,9 +8,10 @@ feel free to submit a PR!
 - Conference format: 2 days of courses and 2 days of talks
 - Keynotes by: [Jose Valim](https://github.com/josevalim), [Justin Schneck](https://github.com/mobileoverlord), and [Chris McCord](https://github.com/chrismccord)
 
-
 Table of Contents
+
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6)
+- [What's New](#whats-new)
 - [ElixirConf Courses](#elixirconf-courses)
 - [ElixirConf Talks](#elixirconf-talks)
 - [Community Related Links](#community-related-links)
@@ -20,6 +21,13 @@ Table of Contents
 - [Recommended Books](#recommended-books)
 - [Job Boards](#job-boards)
 - [Heard these companies are hiring](#heard-these-companies-are-hiring)
+
+## What's New
+
+[Phoenix.LiveView]()
+[Scenic](https://github.com/boydm/scenic)
+[Distillery 2.0](https://dockyard.com/blog/2018/08/23/announcing-distillery-2-0)
+[ExUnit Clustered Cases](https://github.com/bitwalker/ex_unit_clustered_case)
 
 ## ElixirConf Courses
 
@@ -222,19 +230,37 @@ by [Alex Garibay](https://github.com/alexgaribay)
 - Elixir Weekly: [https://elixirweekly.net/](https://elixirweekly.net/)
 
 ## Podcasts
+- Elixir Fountain: [http://elixirfountain.com/](http://elixirfountain.com/)
 - Elixir Outlaws: [https://elixiroutlaws.com/](https://elixiroutlaws.com/)
 - Elixir Talk: [https://itunes.apple.com/us/podcast/elixirtalk/id1298287048](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 - Elixir Mix: [https://devchat.tv/elixir-mix/](https://devchat.tv/elixir-mix/)
 
 ## Regional Conferences
+- Elixir Daze (St. Augustine/Denver): [http://www.elixirdaze.com/](http://www.elixirdaze.com/)
 - Empex (New York and LA): [http://empex.co/](http://empex.co/)
 - The Big Elixir (New Orleans): [https://www.thebigelixir.com/](https://www.thebigelixir.com/)
 - Gig City Elixir (Chattanooga): [https://www.gigcityelixir.com/](https://www.gigcityelixir.com/)
 
 ## Recommended Books
+- Programming Phoenix 1.4: [https://pragprog.com/book/phoenix14/programming-phoenix-1-4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
+    + Discount code: Phoenix_Workshop_2018
 - Property-Based Testing with PropEr, Erlang, and Elixir: [https://propertesting.com/index.html](https://propertesting.com/index.html)
+- Adopting Elixir: [https://pragprog.com/book/tvmelixir/adopting-elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
 - Craft GraphQL APIs in Elixir with Absinthe: [https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 - Elixir in Action, Second Edition: [https://www.manning.com/books/elixir-in-action-second-edition](https://www.manning.com/books/elixir-in-action-second-edition)
+- The Beam Book: [https://github.com/happi/theBeamBook](https://github.com/happi/theBeamBook)
+- Functional Web Development with Elixir, OTP, and Phoenix: [https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
+
+# Video Courses
+- [ElixirCasts](https://elixircasts.io/)
+- [Elixir/OTP Pragmatic Studio Video Course](https://pragmaticstudio.com/courses/elixir)
+- [Elixir for Programmers by Dave Thomas](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
+- [Daily Drip's Elixir Contnet](https://www.dailydrip.com/topics/elixir)
+
+
+# Other Recommended Resources
+- [Elixircards](https://elixircards.co.uk/)
+- [Elixir School](https://elixirschool.com/en/)
 
 ## Job Boards
 - Elixir Radar: [http://plataformatec.com.br/elixir-radar/jobs](http://plataformatec.com.br/elixir-radar/jobs)
