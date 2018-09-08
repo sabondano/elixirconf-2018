@@ -28,6 +28,7 @@ Table of Contents
 - [Scenic](https://github.com/boydm/scenic)
 - [Distillery 2.0](https://dockyard.com/blog/2018/08/23/announcing-distillery-2-0)
 - [ExUnit Clustered Cases](https://github.com/bitwalker/ex_unit_clustered_case)
+- [NervesHub](https://www.nerves-hub.org/)
 
 ## ElixirConf Courses
 
