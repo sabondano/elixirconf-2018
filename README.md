@@ -136,6 +136,13 @@ by [Catherine Zoller](https://github.com/cathyzoller)
 ### My first Nerves Project: Bioreactor
 ### Did You Hear That Wind?
 ### A Deep Dive Into Hex
+by [Todd Resudek](https://github.com/supersimple)
+
+- [Slides](https://github.com/supersimple/elixirconf2018slides)
+- [Weedmaps](https://weedmaps.com)
+- [Engineering Blog](https://medium.com/weedmaps-engineering)
+- [Hex](https://github.com/hexpm/hex)
+
 ### You Can Never Debug the Code You Run, But You Can View the Code the Debugger is Running
 ### Architecting Flow in Elixir - From Leveraging Pipes to Designing Token APIs
 ### Simple is Beautiful: Building an SLA Monitoring Tool Using Elixir/OTP at PagerDuty
@@ -285,4 +292,3 @@ by [Alex Garibay](https://github.com/alexgaribay)
 
 - [POA](https://poa.network/)
 - [Gaslight](https://teamgaslight.com/)
-
